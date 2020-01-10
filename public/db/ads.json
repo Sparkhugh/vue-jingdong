@@ -1,0 +1,65 @@
+{
+  "err": 0,
+  "msg": "success",
+  "data": [
+    {
+      "type": 1,
+      "list": [
+        {
+          "title": "萌宝日记",
+          "desc": "吾家有宝初成长",
+          "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/44287/40/12685/75824/5d5e49c7Ee189e686/93bcc17cc8045163.jpg!q70.jpg.dpg"
+        },
+        {
+          "title": "萌宝日记",
+          "desc": "吾家有宝初成长",
+          "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/26318/12/3247/100171/5c25b61fEd805c47c/3eae942b935e3d80.jpg!q70.jpg.dpg"
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "list": [
+        {
+          "title": "享运动",
+          "desc": "运动并没有那么痛苦",
+          "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1786/104/649529509/217867/ebee99aa/55d6de5cNa8e1df79.jpg!q70.jpg.dpg"
+        },
+        {
+          "title": "享运动",
+          "desc": "运动并没有那么痛苦",
+          "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/100346/15/843/198033/5db5a755E9a0c0e4e/96008a25e5683225.jpg!q70.jpg.dpg"}
+      ]
+    },
+    {
+      "type": 2,
+      "list": [
+        {
+          "title": "男得好货",
+          "desc": "高颜值好货",
+          "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/66088/26/4132/100493/5d256ac0Ec6d4dd40/0e55fc990b0d89c5.jpg!q70.jpg.dpg"
+        },
+        {
+          "title": "程序猿",
+          "desc": "装备必须牛",
+          "src": "//m.360buyimg.com/mobilecms/g13/M02/04/0E/rBEhVFHbZw0IAAAAAALFxgN_LSsAAA3fgLESAwAAsXe559.jpg!q70.jpg"
+        }
+      ]
+    },
+    {
+      "type": 2,
+      "list": [
+        {
+          "title": "书适生活",
+          "desc": "快乐阅读",
+          "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/79055/40/13730/238494/5dafca07E2679c65a/89d9f0f5c8f486c2.jpg!q70.jpg.dpg"
+        },
+        {
+          "title": "休假旅行",
+          "desc": "潮流集结",
+          "src": "//m.360buyimg.com/mobilecms/s150x150_jfs/t1/49297/27/14320/109931/5db11332Ed424ab01/0ac0d5c6107a7085.jpg!q70.jpg.dpg"
+        }
+      ]
+    }
+  ]
+}

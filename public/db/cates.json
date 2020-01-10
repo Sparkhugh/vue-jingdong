@@ -1,0 +1,56 @@
+{
+  "err": 0,
+  "msg": "success",
+  "data": [
+    {
+      "cate": "美妆护肤",
+      "list": [
+        {
+          "title": "当季主推",
+          "list": [
+            {
+              "img": "//img30.360buyimg.com/focus/s140x140_jfs/t19531/110/2538137867/14848/c3ec84ac/5afd3cc5N8aa4b7c8.jpg",
+              "name": "美白"
+            },
+            {
+              "img": "//img30.360buyimg.com/focus/s140x140_jfs/t17560/320/2504739891/10347/f04150c4/5afd3cbeN77d00886.jpg",
+              "name": "防晒"
+            }
+          ]
+        },
+        {
+          "title": "拔草推荐",
+          "list": [
+            {
+              "img": "//img10.360buyimg.com/focus/s140x140_jfs/t20356/99/118471868/26414/e301e0b7/5afd3d61Ne42d8f0d.jpg",
+              "name": "口红"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "cate": "个护清洁",
+      "list": [
+        {
+          "title": "明星品牌",
+          "list": [
+            {
+              "img": "//img13.360buyimg.com/focus/s140x140_jfs/t19159/296/2561042023/49706/b5b9a38c/5afd5700N355dfa7d.jpg",
+              "name": "得宝"
+            }
+          ]
+        },
+        {
+          "title": "纸品湿巾",
+          "list": [
+            {
+              "img": "//img13.360buyimg.com/focus/s140x140_jfs/t21769/101/124948952/48248/832ede7b/5afd568bN971e6358.jpg",
+              "name": "抽纸"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
